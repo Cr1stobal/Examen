@@ -1,0 +1,16 @@
+.banner{
+    background-image: url("../img/fotobanner.webp");
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    background-attachment: fixed;
+
+}
+
+.menu{
+    background-color: black;
+}
+
+.subrayado{
+    text-decoration: underline;
+}
